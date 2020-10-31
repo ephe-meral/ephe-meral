@@ -1,9 +1,14 @@
-### Hi there 👋
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ephe-meral&include_all_commits=true&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ephe-meral&langs_count=10&hide=HTML,Makefile&exclude_repo=dotfiles,novel,genesis,ephe-meral.github.io&layout=compact" />
+</a>
 
-[![Johanna's github stats](https://github-readme-stats.vercel.app/api?username=ephe-meral&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ephe-meral&langs_count=10&hide=HTML,Makefile&exclude_repo=dotfiles,novel,genesis,ephe-meral.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+### Why, hello!
+#### I'm Johanna - Tech Entrepreneur, interested in Machine Intelligence, New Rationality, Maths, Physics … you name it.
 
 <!--
 **ephe-meral/ephe-meral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
