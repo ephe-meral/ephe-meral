@@ -10,6 +10,7 @@ I'm Johanna - Tech Entrepreneur, interested in Machine Intelligence, New Rationa
 
 ## My recent articles
 <!-- BLOG-POST-LIST:START -->
+- [Neuroevolution](https://towardsdatascience.com/neuroevolution-cb31d823f27d?source=rss-ede7381126aa------2)
 - [Hierarchical Hidden Markov Models](https://towardsdatascience.com/hierarchical-hidden-markov-models-a9e0552e70c1?source=rss-ede7381126aa------2)
 - [Quickprop, an Alternative to Back-Propagation](https://towardsdatascience.com/quickprop-an-alternative-to-back-propagation-d9a78069e2a7?source=rss-ede7381126aa------2)
 - [Cascade-Correlation, a Forgotten Learning Architecture](https://towardsdatascience.com/cascade-correlation-a-forgotten-learning-architecture-a2354a0bec92?source=rss-ede7381126aa------2)
