@@ -10,11 +10,11 @@ I'm Johanna - Tech Entrepreneur, interested in Machine Intelligence, New Rationa
 
 ## My recent articles
 <!-- BLOG-POST-LIST:START -->
-- [Growing Brains: Artificial Embryogeny](https://towardsdatascience.com/growing-brains-artificial-embryogeny-b804179eeab9?source=rss-ede7381126aa------2)
-- [Growing Brains: Neuroevolution](https://towardsdatascience.com/neuroevolution-cb31d823f27d?source=rss-ede7381126aa------2)
-- [Hierarchical Hidden Markov Models](https://towardsdatascience.com/hierarchical-hidden-markov-models-a9e0552e70c1?source=rss-ede7381126aa------2)
-- [Quickprop, an Alternative to Back-Propagation](https://towardsdatascience.com/quickprop-an-alternative-to-back-propagation-d9a78069e2a7?source=rss-ede7381126aa------2)
-- [Cascade-Correlation, a Forgotten Learning Architecture](https://towardsdatascience.com/cascade-correlation-a-forgotten-learning-architecture-a2354a0bec92?source=rss-ede7381126aa------2)
+- [A New Kind of Engineering](https://medium.com/data-science/a-new-kind-of-engineering-fee04ce567ba?source=rss-ede7381126aa------2)
+- [Growing Brains: Artificial Embryogeny](https://medium.com/data-science/growing-brains-artificial-embryogeny-b804179eeab9?source=rss-ede7381126aa------2)
+- [Growing Brains: Neuroevolution](https://medium.com/data-science/neuroevolution-cb31d823f27d?source=rss-ede7381126aa------2)
+- [Hierarchical Hidden Markov Models](https://medium.com/data-science/hierarchical-hidden-markov-models-a9e0552e70c1?source=rss-ede7381126aa------2)
+- [Quickprop, an Alternative to Back-Propagation](https://medium.com/data-science/quickprop-an-alternative-to-back-propagation-d9a78069e2a7?source=rss-ede7381126aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
